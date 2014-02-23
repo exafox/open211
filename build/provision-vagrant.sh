@@ -1,5 +1,5 @@
 
-   #Donfigure heroku client for api app
+   #Configure heroku client for api app
    cd /src/ohana-api/
    wget -qO- https://toolbelt.heroku.com/install-ubuntu.sh | sh
    heroku login
